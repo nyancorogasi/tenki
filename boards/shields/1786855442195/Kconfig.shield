@@ -1,0 +1,3 @@
+
+config SHIELD_1786855442195
+    def_bool $(shields_list_contains,1786855442195)
